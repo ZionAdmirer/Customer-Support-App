@@ -26,5 +26,4 @@ This is the backend server for a **modern cloud-based e-commerce platform**, dev
 
 ---
 
-## 📁 Project Structure
 
